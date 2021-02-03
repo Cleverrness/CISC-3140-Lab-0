@@ -13,8 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Random image of a cat to test out git push with ssh
 
 ### Changed
-- README updated to reflect this to explain  why there's now a random cat picture
+- README updated to reflect why there's now a random cat picture in the repo
 
 ### Removed
 
-[0.0.2]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.3.0...v1.0.0
+[0.0.2]: https://github.com/Cleverrness/CISC-3140-Lab-0
